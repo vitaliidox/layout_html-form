@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,gDACE,kBACF,CAEA,6BACE,kBACF","file":"style.f652431a.css","sourceRoot":"..\\src","sourcesContent":[".formsBlock > :not(:first-child):not(:last-child) {\r\n  margin-bottom: 10px;\r\n}\r\n\r\n.formsBlock:not(:last-child) {\r\n  margin-bottom: 20px;\r\n}\r\n"]}
